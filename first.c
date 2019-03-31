@@ -2,6 +2,6 @@
 
 void main()
 {
-	printf("Hello UOH");
+	printf("Hello SE");
 
 }
