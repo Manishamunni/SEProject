@@ -2,6 +2,6 @@
 
 void main()
 {
-	printf("Hello IT");
+	printf("Hello AI");
 
 }
